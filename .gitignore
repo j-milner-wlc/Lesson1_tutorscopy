@@ -3,3 +3,8 @@
 ################################################################################
 
 *.lock
+/.vs/Lesson1_tutorscopy/v16/Server/sqlite3/storage.ide
+/.vs/Lesson1_tutorscopy/v16/Server/sqlite3/storage.ide-wal
+/.vs/Lesson1_tutorscopy/v16/Server/sqlite3/storage.ide-shm
+/.vs/slnx.sqlite
+/.vs/Lesson1_tutorscopy/v16
